@@ -1,6 +1,7 @@
 <script setup>
 import TheWelcome from '../components/TheWelcome.vue';
-console.log(2222);
+console.log(333);
+console.log(333);
 </script>
 
 <template>
